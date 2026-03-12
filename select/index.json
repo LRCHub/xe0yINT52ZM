@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "空へ（『映画ドラえもん　新・のび太の日本誕生』主題歌）",
+  "base_artist": "山崎まさよし",
+  "createdAt": "2026-03-12T14:46:02.039320Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空へ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_01_空へ_山崎_まさよし.txt"
+    }
+  ]
+}
